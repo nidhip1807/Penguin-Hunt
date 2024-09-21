@@ -1,4 +1,4 @@
-# penguin
+# Penguin Hunt
 
 **"Find the Penguins"** is a simple web-based game where players uncover hidden penguins in a 3x3 grid while avoiding a yeti. The objective is to score points by finding penguins, with the game tracking both current and high scores.
 
